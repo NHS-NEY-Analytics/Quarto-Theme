@@ -7,16 +7,16 @@ website:
   description: "NHS Theme"
   site-url: https://nhs-r-community.github.io/quarto-nhs-theme
   favicon: docs/_assets/favicon.ico
-  repo-url: https://github.com/nhs-r-community/quarto-nhs-theme
+  repo-url: https://github.com/NHS-NEY-Analytics/Quarto-Theme
   repo-actions: [edit, issue]
 
   page-footer:
     left: "This page is built [Quarto](https://quarto.org/)."
     right:
     - text: "License"
-      href: https://github.com/nhs-r-community/quarto-nhs-theme/blob/main/LICENCE
+      href: https://github.com/NHS-NEY-Analytics/Quarto-Theme/blob/main/LICENCE
     - text: "Code of Conduct"
-      href: https://github.com/nhs-r-community/quarto-nhs-theme/blob/main/CODE_OF_CONDUCT.md
+      href: https://github.com/NHS-NEY-Analytics/Quarto-Theme/blob/main/CODE_OF_CONDUCT.md
 
   navbar:
     background: light
@@ -43,10 +43,10 @@ website:
             href: about.qmd
           - text: "Report a Bug"
             icon: "bug"
-            href: "https://github.com/nhs-r-community/quarto-nhs-theme/issues"
+            href: "https://github.com/NHS-NEY-Analytics/Quarto-Theme/issues"
           - text: "Ask a Question"
             icon: "chat-right-text"
-            href: "https://github.com/nhs-r-community/quarto-nhs-theme/discussions"
+            href: "https://github.com/NHS-NEY-Analytics/Quarto-Theme/discussions"
           - text: "FAQ"
             icon: "question-circle"
             href: faq.qmd
